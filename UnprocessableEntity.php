@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Helpers\Vmodel;
+namespace Vmodel;
 
 use Session;
 

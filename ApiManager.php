@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Helpers\VModel;
+namespace VModel;
 
 use GuzzleHttp\Psr7;
 use GuzzleHttp\Exception\GuzzleException;

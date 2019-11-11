@@ -1,5 +1,5 @@
 <?php
 
-namespace App\Helpers\VModel;
+namespace VModel;
 
 interface ReturnInterface {}

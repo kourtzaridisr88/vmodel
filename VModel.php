@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Helpers\VModel;
+namespace VModel;
 
 use Illuminate\Support\Collection;
 
